@@ -35,7 +35,7 @@
 | [`2019-national-competition/task1-lead-smoke-remover`](./2019-national-competition/task1-lead-smoke-remover) | ✅ 1과제 PCB 설계 — "납 연기 제거기" (Gerber + 렌더 이미지) |
 | [`elevator-control-system`](./elevator-control-system) | ✅ 54회 전국 3과제 — 2대 엘리베이터 제어 C 코드 (ATmega128, UART) |
 | [`motor-pwm-control`](./motor-pwm-control) | PWM 모터 속도 제어 + 7세그먼트 (ATmega128, 인터럽트) |
-| [`circuit-design-practice-log`](./circuit-design-practice-log) | OrCAD 회로설계/PCB 레이아웃 연습 39세션 (2019.08.15~10.04) |
+| [`circuit-design-practice-log`](./circuit-design-practice-log) | OrCAD 회로설계/PCB 레이아웃 연습 기록 36회분 (2019.08.15~10.04) |
 | [`circuit-design-problem-set`](./circuit-design-problem-set) | 회로설계 연습 문제·정답 7종 |
 | [`photos`](./photos) | 실제 촬영한 답안지·배선 작업·오실로스코프 측정 사진 |
 | [`2018-regional-competition`](./2018-regional-competition) · [`2019-regional-competition`](./2019-regional-competition) · [`2019-national-competition`](./2019-national-competition) | 대회별 전체 1~5과제 문서화 (설계 파일이 없는 과제도 무엇을 했는지 상세 설명) |
@@ -139,7 +139,7 @@ Embedded C code and circuit/PCB design work from my time on the Industrial Elect
 | [`2019-national-competition/task1-lead-smoke-remover`](./2019-national-competition/task1-lead-smoke-remover) | ✅ Task 1 PCB design — "lead smoke remover" (Gerber + rendered layers) |
 | [`elevator-control-system`](./elevator-control-system) | ✅ 54th National Task 3 — dual-elevator control C code (ATmega128, UART) |
 | [`motor-pwm-control`](./motor-pwm-control) | PWM motor speed control + 7-segment display (ATmega128, interrupt-driven) |
-| [`circuit-design-practice-log`](./circuit-design-practice-log) | 39 sessions of daily OrCAD circuit/PCB layout practice (2019-08-15 to 10-04) |
+| [`circuit-design-practice-log`](./circuit-design-practice-log) | 36 logged OrCAD circuit/PCB layout practice sessions (2019-08-15 to 10-04) |
 | [`circuit-design-problem-set`](./circuit-design-problem-set) | 7 self-assembled circuit design practice problems with solutions |
 | [`photos`](./photos) | Real photos: answer sheets, wiring work, oscilloscope measurements |
 | [`2018-regional-competition`](./2018-regional-competition) · [`2019-regional-competition`](./2019-regional-competition) · [`2019-national-competition`](./2019-national-competition) | Full 1–5 task documentation per competition (what I actually did, even for tasks with no surviving design files) |
